@@ -1,6 +1,1 @@
-{
-  "functionName": "helloworld",
-  "runtime": "python3.10",
-  "handler": "handler.hello",
-  "role": "<YOUR_AWS_ARN>"
-}
+{"functionName":"helloworld","runtime":"python3.10","handler":"handler.hello","role":"arn:aws:iam::845811328658:user/harness"}
